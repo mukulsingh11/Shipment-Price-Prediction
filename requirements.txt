@@ -1,0 +1,8 @@
+pymongo 
+pandas 
+numpy 
+pyYAML
+dill 
+python-dotenv
+scikit-learn
+-e .
